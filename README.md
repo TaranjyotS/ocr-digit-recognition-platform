@@ -34,7 +34,7 @@
 
 **OCR Digit Recognition Platform** is a production-style computer vision project that recognizes handwritten digits from uploaded images using OpenCV preprocessing and a K-Nearest Neighbors classification pipeline.
 
-The project is upgraded from an academic Master’s OCR prototype into a clean **portfolio-grade ML serving platform** with a FastAPI API, command-line interface, Docker support, CI/CD, automated tests, linting, security checks, and documentation.
+The project is **portfolio-grade ML serving platform** with a FastAPI API, command-line interface, Docker support, CI/CD, automated tests, linting, security checks, and documentation.
 
 It demonstrates how a notebook/script-style computer vision assignment can be converted into a maintainable backend service suitable for GitHub, demos, interviews, and future cloud deployment.
 
